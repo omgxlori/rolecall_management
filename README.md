@@ -17,7 +17,7 @@ RoleCall Manager is a simple command-line application built to manage employees,
 
 ## Visuals
 Please follow this link for a video walk-through on how to use the command-line application:
-https://www.loom.com/share/79f32100542d45dc81282ad2e969bd68?sid=ed983dec-ab5f-48e0-91db-342fbd2bb55f
+https://drive.google.com/file/d/1B5UG2qOxwBxQ7OEWQ9oQf3I5xrPwgEfR/view?usp=sharing
 
 ## Features
 - View all employees, roles, and departments.
